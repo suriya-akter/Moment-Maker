@@ -1,0 +1,1005 @@
+.frame-child39 {
+  width: 473px;
+  height: 1080px;
+  position: relative;
+  box-shadow: 4px 0 19px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-oldlace);
+  display: none;
+  max-width: 100%;
+}
+.makers2,
+.moment2 {
+  margin: 0;
+}
+.moment-makers4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.moment-makers-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+}
+.events-and-weddings8 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-alex-brush);
+  color: var(--color-peru);
+  z-index: 1;
+}
+.frame-parent22,
+.frame-wrapper12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper12 {
+  flex-direction: row;
+  padding: 0 var(--padding-18xl) 0 var(--padding-16xl-7);
+}
+.home3 {
+  position: relative;
+  display: inline-block;
+  min-width: 68px;
+  cursor: pointer;
+  z-index: 1;
+}
+.home-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.about4,
+.services3 {
+  position: relative;
+  display: inline-block;
+  min-width: 94px;
+  z-index: 1;
+}
+.about4 {
+  min-width: 70px;
+}
+.about-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.blog2 {
+  position: relative;
+  display: inline-block;
+  min-width: 53px;
+  z-index: 1;
+}
+.blog-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.contact2 {
+  position: relative;
+  display: inline-block;
+  min-width: 87px;
+  cursor: pointer;
+  z-index: 1;
+}
+.contact-wrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 var(--padding-10xs);
+}
+.contact-wrapper,
+.frame-parent24,
+.frame-wrapper13 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent24 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.frame-wrapper13 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-175xl);
+}
+.separator {
+  height: 0.5px;
+  flex: 1;
+  position: relative;
+  border-top: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+  opacity: 0.6;
+  z-index: 1;
+}
+.separator-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-55xl) 0 var(--padding-54xl);
+}
+.div2 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl) 0 var(--padding-22xl);
+}
+.infomomentmakerscom4 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-parent26 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.frame-parent25,
+.frame-parent26,
+.frame-wrapper14 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent25 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-sm-5);
+}
+.frame-wrapper14 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xl-7) 0 var(--padding-11xl);
+  text-align: center;
+  font-size: var(--para-size);
+  color: var(--color-black);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-child40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.icons {
+  position: absolute;
+  height: 64.17%;
+  width: 32.22%;
+  top: 17.78%;
+  right: 35.56%;
+  bottom: 18.06%;
+  left: 32.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-child41,
+.rectangle-parent27 {
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+}
+.rectangle-parent27 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  z-index: 1;
+}
+.frame-child41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vector-icon10 {
+  position: absolute;
+  height: 50%;
+  width: 50%;
+  top: 27.22%;
+  right: 25%;
+  bottom: 22.78%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-child42,
+.rectangle-parent28 {
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+}
+.rectangle-parent28 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  z-index: 1;
+}
+.frame-child42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vector-icon11 {
+  position: absolute;
+  height: 50%;
+  width: 47.78%;
+  top: 22.78%;
+  right: 22.78%;
+  bottom: 27.22%;
+  left: 29.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.rectangle-parent29 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.vector-icon12 {
+  position: absolute;
+  height: 44.44%;
+  width: 54.44%;
+  top: 27.22%;
+  right: 23.06%;
+  bottom: 28.33%;
+  left: 22.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child43 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.frame-child43,
+.frame-child44,
+.vector-container {
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+}
+.vector-container {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  z-index: 1;
+}
+.frame-child44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 43.06%;
+  width: 43.06%;
+  top: 31.94%;
+  right: 29.72%;
+  bottom: 25%;
+  left: 27.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.rectangle-parent30 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-peru);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-parent27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent23,
+.rectangle-parent26 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  width: 303.4px;
+  align-items: flex-end;
+  gap: var(--gap-25xl);
+  font-size: var(--font-size-6xl);
+  color: var(--color-peru);
+  font-family: var(--para);
+}
+.rectangle-parent26 {
+  width: 473px;
+  box-shadow: 4px 0 19px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-oldlace);
+  align-items: center;
+  padding: var(--padding-57xl) var(--padding-xl) var(--padding-16xl)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  gap: var(--gap-177xl);
+  min-width: 473px;
+  max-width: 100%;
+}
+.our-services2,
+.wedding-planner3 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+}
+.our-services2 {
+  font-size: inherit;
+  font-family: inherit;
+}
+.wedding-planner3 {
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: var(--para);
+  color: var(--color-black);
+}
+.our-services-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.frame-child45 {
+  width: 580px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 801px;
+  max-width: 100%;
+}
+.we-believe-that,
+.your-wedding-should {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.your-wedding-should-be-a-time-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.package-includes1 {
+  font-weight: 500;
+}
+.package-includes {
+  margin: 0;
+}
+.blank-line4 {
+  font-weight: 500;
+}
+.blank-line3 {
+  margin: 0;
+  color: var(--color-black);
+}
+.pwe-weddings {
+  line-height: 149.9%;
+}
+.pwe-weddings-events-workbook1 {
+  margin-bottom: 0;
+}
+.unlimited-access-to {
+  line-height: 149.9%;
+}
+.unlimited-access-to-expert-wed {
+  margin-bottom: 0;
+}
+.access-to-preferred {
+  line-height: 149.9%;
+}
+.access-to-preferred-vendors-li {
+  margin-bottom: 0;
+}
+.wedding-assistant-for {
+  line-height: 149.9%;
+}
+.wedding-assistant-for-wedding {
+  margin-bottom: 0;
+}
+.oversee-and-help {
+  line-height: 149.9%;
+}
+.oversee-and-help-with-ceremony {
+  margin-bottom: 0;
+}
+.review-of-vendor {
+  line-height: 149.9%;
+}
+.review-of-vendor-contracts {
+  margin-bottom: 0;
+}
+.distribute-final-payments {
+  line-height: 149.9%;
+}
+.pwe-weddings-events-workbook {
+  margin: 0;
+  font-family: var(--para);
+  font-size: var(--font-size-xl);
+  padding-left: var(--padding-8xl);
+}
+.package-includes-pwe-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.package-includes-pwe-weddings-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-11xl);
+  color: var(--color-peru);
+}
+.frame-child46 {
+  height: 80px;
+  width: 328px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.book-now1 {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  font-family: var(--font-cormorant-garamond);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 125px;
+  z-index: 1;
+}
+.frame-parent29,
+.rectangle-parent31 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent31 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xl) var(--padding-xl) var(--padding-3xl)
+    var(--padding-2xl);
+  background-color: var(--color-black);
+  width: 328px;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.rectangle-parent31:hover {
+  background-color: var(--color-darkslategray);
+}
+.frame-parent29 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 31px;
+  min-width: 470px;
+}
+.vector-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-32xl);
+  text-align: justify;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-parent28,
+.frame-section,
+.frame-wrapper15,
+.vector-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent28 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-46xl);
+}
+.frame-section,
+.frame-wrapper15 {
+  box-sizing: border-box;
+}
+.frame-wrapper15 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-66xl) 0 0;
+  min-width: 880px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-peru);
+  font-family: var(--font-alex-brush);
+}
+.frame-section {
+  width: 1877px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-child47 {
+  height: 510px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.moment-makers5 {
+  position: relative;
+  z-index: 2;
+}
+.moment-makers-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-sm);
+}
+.events-and-weddings9 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: var(--font-alex-brush);
+  z-index: 1;
+}
+.frame-parent31,
+.frame-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent31 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper16 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-7xl);
+}
+.news-letter2 {
+  position: relative;
+  z-index: 1;
+}
+.frame-child48 {
+  height: 45px;
+  width: 460px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.e-mail2 {
+  width: 60px;
+  border: 0;
+  outline: 0;
+  font-family: var(--para);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 18.9px;
+  position: relative;
+  line-height: 18.9px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: flex;
+  align-items: flex-end;
+  padding: 0;
+  z-index: 1;
+}
+.rectangle-parent33 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-smi) var(--padding-4xs);
+  min-width: 60px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-child49 {
+  height: 45px;
+  width: 149px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  display: none;
+}
+.subscribe2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--para);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 89px;
+  z-index: 1;
+}
+.frame-parent32,
+.rectangle-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent34 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs) var(--padding-9xl);
+  background-color: var(--color-white);
+  width: 149px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.rectangle-parent34:hover {
+  background-color: var(--color-gainsboro);
+}
+.frame-parent32 {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+  max-width: 100%;
+}
+.sign-up-with2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--para);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent30,
+.news-letter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.news-letter-container {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+  color: var(--color-white);
+  font-family: var(--font-cormorant-garamond);
+}
+.frame-parent30 {
+  width: 617px;
+  align-items: flex-end;
+  gap: var(--gap-47xl);
+  min-width: 617px;
+}
+.contact-us2 {
+  position: relative;
+  z-index: 1;
+}
+.contact-info1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-65xl) 0 var(--padding-59xl);
+}
+.any-where-any2,
+.call-us-91888866668888,
+.infomomentmakerscom5 {
+  position: relative;
+  z-index: 1;
+}
+.infomomentmakerscom5 {
+  white-space: nowrap;
+}
+.contact-info-parent,
+.contact-info2,
+.frame-wrapper17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-info2 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-14xl);
+}
+.contact-info-parent,
+.frame-wrapper17 {
+  flex-direction: column;
+}
+.contact-info-parent {
+  gap: var(--gap-2xs);
+}
+.frame-wrapper17 {
+  height: 215px;
+  min-width: 313px;
+  font-size: var(--para-size);
+  color: var(--color-white);
+  font-family: var(--para);
+}
+.rectangle-parent32 {
+  align-self: stretch;
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-46xl) var(--padding-60xl) var(--padding-103xl)
+    var(--padding-547xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-peru);
+  font-family: var(--font-coustard);
+}
+.wedding3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-oldlace);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1600px) {
+  .rectangle-parent26 {
+    flex: 1;
+  }
+  .frame-section {
+    flex-wrap: wrap;
+  }
+  .frame-parent30 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frame-wrapper17 {
+    flex: 1;
+  }
+  .rectangle-parent32 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .rectangle-parent26 {
+    padding-top: var(--padding-30xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .frame-child45 {
+    flex: 1;
+  }
+  .vector-parent1 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper15 {
+    padding-top: var(--padding-36xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .rectangle-parent32 {
+    padding-left: var(--padding-264xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .moment-makers4 {
+    font-size: var(--font-size-13xl);
+  }
+  .events-and-weddings8 {
+    font-size: var(--para-size);
+  }
+  .rectangle-parent26 {
+    padding-top: 32px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .our-services2 {
+    font-size: var(--font-size-9xl);
+  }
+  .wedding-planner3 {
+    font-size: var(--font-size-21xl);
+  }
+  .frame-parent29 {
+    gap: var(--gap-mini);
+    min-width: 100%;
+  }
+  .vector-parent1 {
+    gap: var(--gap-6xl);
+  }
+  .frame-parent28 {
+    gap: var(--gap-13xl);
+  }
+  .frame-wrapper15 {
+    padding-top: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .moment-makers5 {
+    font-size: var(--para-size);
+  }
+  .events-and-weddings9 {
+    font-size: var(--font-size-13xl);
+  }
+  .news-letter2 {
+    font-size: var(--para-size);
+  }
+  .frame-parent32 {
+    flex-wrap: wrap;
+  }
+  .frame-parent30 {
+    gap: var(--gap-14xl);
+  }
+  .rectangle-parent32 {
+    padding-left: var(--padding-122xl);
+    padding-top: var(--padding-23xl);
+    padding-bottom: var(--padding-60xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .moment-makers4 {
+    font-size: var(--para-size);
+  }
+  .events-and-weddings8 {
+    font-size: var(--font-size-lg);
+  }
+  .about4,
+  .blog2,
+  .contact2,
+  .home3,
+  .services3 {
+    font-size: var(--font-size-xl);
+  }
+  .frame-wrapper13 {
+    padding-bottom: var(--padding-107xl);
+    box-sizing: border-box;
+  }
+  .div2,
+  .infomomentmakerscom4 {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent23 {
+    gap: var(--gap-3xl);
+  }
+  .rectangle-parent26 {
+    gap: var(--gap-79xl);
+  }
+  .our-services2 {
+    font-size: var(--font-size-2xl);
+  }
+  .wedding-planner3 {
+    font-size: var(--font-size-11xl);
+  }
+  .we-believe-that,
+  .your-wedding-should {
+    font-size: var(--font-size-3xl);
+  }
+  .package-includes-pwe-container {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent28 {
+    gap: var(--gap-base);
+  }
+  .moment-makers5 {
+    font-size: var(--font-size-lg);
+  }
+  .events-and-weddings9 {
+    font-size: var(--para-size);
+  }
+  .news-letter2 {
+    font-size: var(--font-size-lg);
+  }
+  .e-mail2 {
+    line-height: 15px;
+  }
+  .e-mail2,
+  .sign-up-with2,
+  .subscribe2 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent30 {
+    gap: var(--gap-base);
+  }
+  .contact-us2 {
+    font-size: var(--font-size-lgi);
+  }
+  .contact-info1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .any-where-any2,
+  .call-us-91888866668888,
+  .infomomentmakerscom5 {
+    font-size: var(--font-size-lgi);
+  }
+}
